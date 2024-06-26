@@ -7,10 +7,9 @@ This repository will contain the neccesities when diving into programming
 
 ## Content
 
+- [Python](./python/README.md)
 - [Github](./github/README.md)
 - [VSCode](./vscode/README.md)
-- [Python](./python/README.md)
-
 
 ### License
 
